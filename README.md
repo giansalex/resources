@@ -6,6 +6,9 @@
 - [Gentella](https://github.com/puikinsh/gentelella)  
   Bootstrap 3 Admin Template
 
+### Angular
+- [CoreUI Template](https://github.com/mrholek/CoreUI-Angular)
+
 ### Android
 - [BitCoin Minner](https://github.com/bluemurder/bminer)
 
