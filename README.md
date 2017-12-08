@@ -3,6 +3,8 @@
 ### Html
 - [Email Template](https://github.com/kowalskidev/email-template)
 - [Slider Revolution](https://github.com/marsanla/SliderRevolution)
+- [Gentella](https://github.com/puikinsh/gentelella)  
+  Bootstrap 3 Admin Template
 
 ### Android
 - [BitCoin Minner](https://github.com/bluemurder/bminer)
