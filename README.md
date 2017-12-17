@@ -18,3 +18,6 @@
 ### RUST Language
 - [Example Code](https://rustbyexample.com/)
 - [IRON - Web Framework](https://github.com/iron/iron)
+
+### Videos
+- [Crear Videos Animados](http://bienpensado.com/12-herramientas-para-crear-videos-animados/)
