@@ -23,6 +23,7 @@
 + Template Engine
   - [Plates](https://github.com/thephpleague/plates)
   - [Foil](https://github.com/FoilPHP/Foil)
+  - [PhpTAL](https://github.com/phptal/PHPTAL)
 
 ### Videos
 - [Crear Videos Animados](http://bienpensado.com/12-herramientas-para-crear-videos-animados/)
