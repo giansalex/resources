@@ -26,6 +26,8 @@
   - [Plates](https://github.com/thephpleague/plates)
   - [Foil](https://github.com/FoilPHP/Foil)
   - [PhpTAL](https://github.com/phptal/PHPTAL)
++ Excel
+  - [Php Excel Fast Exporter](https://github.com/Slamdunk/php-excel)
 
 ## C++
 - [Windows Service](https://github.com/harikvpy/winservice)
