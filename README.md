@@ -28,7 +28,9 @@
   - [PhpTAL](https://github.com/phptal/PHPTAL)
 + Excel
   - [Php Excel Fast Exporter](https://github.com/Slamdunk/php-excel)
-
+  - [PHP_XLSXWriter](https://github.com/mk-j/PHP_XLSXWriter)
++ Pdf
+  - [Rospdf](https://github.com/rospdf/pdf-php)
 ### C++
 - [Windows Service](https://github.com/harikvpy/winservice)
 - [NSSM Service Manager](https://github.com/kirillkovalenko/nssm)
