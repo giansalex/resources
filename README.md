@@ -3,7 +3,8 @@
 ### Html
 - [Email Template](https://github.com/kowalskidev/email-template)
 - [Slider Revolution](https://github.com/marsanla/SliderRevolution)
-- [Bootstrap 3 Admin Template - Gentella](https://github.com/puikinsh/gentelella)  
+- [Bootstrap 3 Admin Template - Gentella](https://github.com/puikinsh/gentelella)
+- [AdminBSBMaterialDesign](https://github.com/gurayyarar/AdminBSBMaterialDesign)  
 
 ### Angular
 - [CoreUI Template](https://github.com/mrholek/CoreUI-Angular)
