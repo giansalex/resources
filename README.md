@@ -11,6 +11,7 @@
 
 ### Android
 - [BitCoin Minner](https://github.com/bluemurder/bminer)
+- [Clean Architecture - kotlin sample](https://github.com/mrsegev/MovieNight)
 
 ### Xamarin
 - [snppts Forms UI snipet](http://snppts.io)
