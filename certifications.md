@@ -13,3 +13,7 @@
 ### Project 
 - [Scrum Developer Certification](https://www.scrum.org/professional-scrum-developer-certification)
 - [Project Management Professional](https://www.pmi.org/certifications/types/project-management-pmp)
+
+### Amazon AWS
+- [Devops Specialist](https://aws.amazon.com/es/certification/certified-devops-engineer-professional/)
+- [AWS Certified Developer](https://aws.amazon.com/es/certification/certified-developer-associate/)
