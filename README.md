@@ -45,3 +45,8 @@
 
 ### Step by Step 
 - [Crear tutoriales con terminal](https://www.katacoda.com)
+
+### API Docs
+- [widdershins openApi](https://github.com/Mermade/widdershins) and [slate](https://github.com/lord/slate)
+- [ReDoc OpenApi](https://github.com/Rebilly/ReDoc).
+- https://stoplight.io/
