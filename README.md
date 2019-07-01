@@ -33,6 +33,14 @@
   - [PHP_XLSXWriter](https://github.com/mk-j/PHP_XLSXWriter)
 + Pdf
   - [Rospdf](https://github.com/rospdf/pdf-php)
++ Perfomance (async programming)
+  - [swoole](https://www.swoole.co.uk)
+  - [symfony|k911/swoole-bundle](https://github.com/k911/swoole-bundle)
+  - [reactphp](https://reactphp.org/)
+  - [reactphp|php-pm/php-pm|PHP Process Manager](https://github.com/php-pm/php-pm)
+  - [symfony-react-server](https://github.com/apisearch-io/symfony-react-server)
+  - [amphp|parallel and more](https://amphp.org/)
+
 ### C++
 - [Windows Service](https://github.com/harikvpy/winservice)
 - [NSSM Service Manager](https://github.com/kirillkovalenko/nssm)
